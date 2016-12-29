@@ -9,5 +9,8 @@ Plug 'scrooloose/nerdtree'
 Plug 'lambdatoast/elm.vim'
 Plug 'tpope/vim-sensible'
 Plug 'mikehwang/vim-sensible-lol'
+" Clojure specific
+Plug 'guns/vim-clojure-static'
+Plug 'kien/rainbow_parentheses.vim'
 call plug#end()
 
