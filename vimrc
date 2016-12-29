@@ -11,6 +11,6 @@ Plug 'tpope/vim-sensible'
 Plug 'mikehwang/vim-sensible-lol'
 " Clojure specific
 Plug 'guns/vim-clojure-static'
-Plug 'kien/rainbow_parentheses.vim'
+Plug 'luochen1990/rainbow'
 call plug#end()
 
