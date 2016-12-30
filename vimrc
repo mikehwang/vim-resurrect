@@ -12,5 +12,7 @@ Plug 'mikehwang/vim-sensible-lol'
 " Clojure specific
 Plug 'guns/vim-clojure-static'
 Plug 'luochen1990/rainbow'
+" YAML
+Plug 'stephpy/vim-yaml'
 call plug#end()
 
