@@ -18,6 +18,6 @@ Plug 'hashivim/vim-terraform'
 Plug 'jparise/vim-graphql'
 call plug#end()
 
-# Available color schemes
-# $ ls –l /usr/share/vim/vim*/colors                                                                                                                                                                                                                          0.1.0
+" Available color schemes
+" $ ls –l /usr/share/vim/vim*/colors                                                                                                                                                                                                                          0.1.0
 colorscheme slate
