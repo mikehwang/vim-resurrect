@@ -14,5 +14,7 @@ Plug 'guns/vim-clojure-static'
 Plug 'luochen1990/rainbow'
 " YAML
 Plug 'stephpy/vim-yaml'
+Plug 'hashivim/vim-terraform'
+Plug 'jparise/vim-graphql'
 call plug#end()
 
